@@ -4,7 +4,6 @@ export default defineConfig({
   title: "The Archive",
   description: 'A site will curated guides for Tools and Software',
   appearance: 'dark',
-  ignoreDeadLinks: true,
   themeConfig: {
     search: {
       provider: 'local'

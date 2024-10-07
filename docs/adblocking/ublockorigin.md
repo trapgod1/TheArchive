@@ -11,7 +11,7 @@
 ## Recommened Filters for uBlock Origin
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.discordapp.com/attachments/977220857736888400/1292831034844643378/uBlockOriginFilterLists.png?ex=67052a3a&is=6703d8ba&hm=2db2f05a681f7563bd3aa23e0a66f8744cfd3f8e8eba6e165abca3180810aa7d&" alt="UblockOriginFilterLists" style="width: 50%; height: auto;">
+    <img src="/Assets/uBlockOriginFilterLists.png" alt="UblockOriginFilterLists" style="width: 50%; height: auto;">
 </div>
 
 
