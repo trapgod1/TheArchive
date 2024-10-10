@@ -47,7 +47,14 @@ export default defineConfig({
                 { text: 'Minecraft Launcher', link: '/software/minecraftlauncher' },
               ]
             },
-            { text: 'Firefox Setup', link: '/firefoxsetup' },
+            {
+              text: 'Browsers',
+              collapsed: false,
+              items: [
+                { text: 'Firefox Setup', link: '/browsers/firefoxsetup' },
+                { text: 'Chrome', link: '/browsers/chrome' },
+              ]
+            },
           ],
         },
       ],
